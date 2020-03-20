@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-import './collection-item.styles.scss'
+import './collection-item.styles.scss';
 
 const CollectionItem = ({ id, name, price, imageUrl }) => (
     <div className='collection-item'>
@@ -17,4 +17,4 @@ const CollectionItem = ({ id, name, price, imageUrl }) => (
     </div>
 )
 
-export default CollectionItem
+export default CollectionItem;
