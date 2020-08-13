@@ -1,0 +1,1 @@
+{"version":3,"sources":["collections-overview.styles.scss"],"names":[],"mappings":"AAAA,sBACI,YAAa,CACb,qBAAsB","file":"4.317fbb87.chunk.css","sourcesContent":[".collections-overview {\r\n    display: flex;\r\n    flex-direction: column;\r\n  }\r\n  "]}
